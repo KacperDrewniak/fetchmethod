@@ -1,0 +1,19 @@
+{
+    "lessons": "ziwerzaki",
+    "words": [{
+            "id": 1,
+            "en": "cat",
+            "pl": "kot"
+        },
+        {
+            "id": 2,
+            "en": "play",
+            "pl": "grać"
+        },
+        {
+            "id": 3,
+            "en": "kappa",
+            "pl": "kappunia"
+        }
+    ]
+}
